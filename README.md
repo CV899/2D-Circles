@@ -4,6 +4,7 @@ Creates and compares different geometric shapes using various properties.
 <i>Specifications:</i>
 
 <b>Circle2D.java</b>
+
   • Two double data fields named x and y that specify the center of the circle with set and get methods.
   • A data field radius with a set and get method.
   • A no-arg constructor that creates a default circle with (0, 0) for (x, y) and 1 for radius.
@@ -18,6 +19,7 @@ Creates and compares different geometric shapes using various properties.
   See the Figure (c) below.
   
  <b>Triangle.java</b>
+ 
   • Three double data fields named side1, side2, and side3 with default values 1.0 to denote three sides of
      the triangle.
   • A no-arg constructor that creates a default triangle.
