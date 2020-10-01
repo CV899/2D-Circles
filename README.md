@@ -1,5 +1,5 @@
-# Geometric-Shapes
-Creates and compares different geometric shapes using various properties.
+# 2D-Circles
+Creates and compares circles based on their areas and perimeters.
 
 <i>Specifications:</i>
 
