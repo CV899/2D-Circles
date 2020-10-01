@@ -1,8 +1,8 @@
 # 2D-Circles
 Creates and compares circles based on their areas and perimeters.
-
+<hr>
 <i>Specifications:</i>
-
+<hr>
 
 
   • Two double data fields named x and y that specify the center of the circle with set and get methods.
